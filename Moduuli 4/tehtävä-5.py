@@ -11,7 +11,7 @@ while (uname != USERNAME or pword != PASSWORD) and count < 5:
     uname = input("Enter username: ")
     pword = input("Enter password: ")
 
-if (count >= 5):
+if count >= 5:
     print("Access denied")
 else:
     print("Welcome")
