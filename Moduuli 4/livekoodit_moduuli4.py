@@ -74,7 +74,8 @@
 # print ("Toiminnot lopetettu.")
 
 # Esimerkki 7 (ikiluuppi):
-# Virheellinen ohjelma, ikuinen silmukka
+# Virheellinen ohjelma, ikuinen silmukka -> Tehkää moduuli 4:n lopussa olevien ohjeiden
+# mukaisesti terminaaliemulaatio, jotta voitte keskeyttää ohjelman.
 luku = 1
 while luku<5:
     print (luku)
